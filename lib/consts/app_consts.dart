@@ -15,18 +15,17 @@ class AppConsts {
   static const double tabFontFactor = 1.5;
   static const double mobileFontFactor = 1.0;
 
-  // static const String googleApiKey = "AIzaSyAaVnz03Xmd1cZGKPcVcKFHg0rAX4o_BAs";
-  static const String googleApiKey = "AIzaSyCKd7eMCQbyaxGHIQ_NT19DsLs4dQnentg";
+  static const String googleApiKey = "<Your Google API KEY>";
 
   static double commonFontSizeFactor = SizeConfig.isMobile ? mobileFontFactor : tabFontFactor;
 
   static const String baseUrl = "";
-  static const String urlTerms = "https://taskbuddyapi.appdeft.biz/pages/provider_terms_and_conditions.html";
-  static const String urlPrivacyPolicy = "https://taskbuddyapi.appdeft.biz/pages/provider_policy.html";
+  static const String urlTerms = "<TERMS AND CONDITIONS>";
+  static const String urlPrivacyPolicy = "<Privacy Policy>";
 
 
   static const String stripePK =
-      "pk_test_51MxmstSCkDm0F5p1mKoMayTypT4tuCm2Yk8flActwNlxf43EO8ax779C0pfLdDmOIXXgIVLaK9FdYsob6MnjOc3x00K0hjQeLK";
+      "<STRIPE KEY>";
 
   //false on release
 
@@ -70,7 +69,7 @@ class AppConsts {
 
 
 
-  static const methodChannelName = 'com.nextmedia.streax.sc.camera';
+  static const methodChannelName = '<STREAX METHOD CHANNEL>';
 
 
 
