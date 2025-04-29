@@ -1,16 +1,11 @@
 class ApiUrls {
   ApiUrls._();
 
- // static const String baseUrl = "http://192.168.1.20:1012/";
 
-  // static const String baseUrl = "http://144.91.80.25:1012/";
+  static const String baseUrl = "<API URL>";
 
-  // static const String baseUrl = "https://streaxapi.streax.date/";
-
-  static const String baseUrl = "https://streaxapilive.streax.date/";
-
-  static const String privacyPolicy = "https://www.streax.date/privacy-policy.html";
-  static const String termsOfUse = "https://www.streax.date/terms-conditions.html";
+  static const String privacyPolicy = "<PRIVACY POLICY>";
+  static const String termsOfUse = "<TERMS OF USE>";
   static const String checkEmailExist = "api/user/check/email";
   static const String checkMobileExist = "api/user/check/mobile";
   static const String checkUsernameExists = "api/user/check/username";
