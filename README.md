@@ -6,8 +6,8 @@ A modern and sleek Flutter dating app designed to help users connect based on sh
 
 ## 📲 Download the App
 
-- ▶️ [Google Play Store]([https://play.google.com/store/apps/details?id=com.example.datingapp](https://play.google.com/store/apps/details?id=com.nextmedia.streax&hl=en_IN&pli=1))
-- 🍎 [Apple App Store]([https://apps.apple.com/app/id1234567890](https://apps.apple.com/in/app/streax-stories-streaks-date/id6654905433))
+- ▶️ [Google Play Store](https://play.google.com/store/apps/details?id=com.nextmedia.streax&hl=en_IN&pli=1)
+- 🍎 [Apple App Store](https://apps.apple.com/in/app/streax-stories-streaks-date/id6654905433)
 
 
 ---
